@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPTMentorLink-Backend", "FPTMentorLink-Backend\FPTMentorLink-Backend.csproj", "{6B7CA5CB-37A2-44F3-8145-D860545B4AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{869BFF43-C127-4634-8E5D-4F6341D0AC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{9F01573F-A88D-449A-94A0-180B5668287C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B7CA5CB-37A2-44F3-8145-D860545B4AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7CA5CB-37A2-44F3-8145-D860545B4AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7CA5CB-37A2-44F3-8145-D860545B4AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7CA5CB-37A2-44F3-8145-D860545B4AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869BFF43-C127-4634-8E5D-4F6341D0AC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869BFF43-C127-4634-8E5D-4F6341D0AC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869BFF43-C127-4634-8E5D-4F6341D0AC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869BFF43-C127-4634-8E5D-4F6341D0AC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F01573F-A88D-449A-94A0-180B5668287C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F01573F-A88D-449A-94A0-180B5668287C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F01573F-A88D-449A-94A0-180B5668287C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F01573F-A88D-449A-94A0-180B5668287C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
